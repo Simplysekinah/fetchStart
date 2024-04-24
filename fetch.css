@@ -1,0 +1,25 @@
+/* .inside{
+    width: 250px;
+    height: 80px;
+    border-radius: 5px;
+    box-shadow: 5px salmon;
+} */
+body{
+    background-color: darkgray;
+}
+#table{
+    display: flex;
+    gap: 10px;
+    border: 2px solid bisque;
+    justify-content: center;
+}
+.us{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -15px;
+}
+.img{
+    width: 50px;
+    height: 50px;
+}
